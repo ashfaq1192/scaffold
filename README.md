@@ -1,4 +1,8 @@
+[![CI](https://github.com/ashfaq1192/scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/ashfaq1192/scaffold/actions/workflows/main.yml)
+
+
 # Scaffold
+
 This is a project scaffold for Python. Through Makefile we can define our dependencies and testing files that make it easy for use to run commands like:-  
 
 * `make install` -> to install dependencies noted in 'requirements.txt`    
