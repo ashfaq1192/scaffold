@@ -1,3 +1,5 @@
+[![Azure Python CI](https://github.com/ashfaq1192/scaffold/actions/workflows/azure.yml/badge.svg)](https://github.com/ashfaq1192/scaffold/actions/workflows/azure.yml)
+
 [![CI](https://github.com/ashfaq1192/scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/ashfaq1192/scaffold/actions/workflows/main.yml)
 
 
